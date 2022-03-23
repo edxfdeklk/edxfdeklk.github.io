@@ -1,0 +1,15 @@
+p{
+	font-family: coursive;
+	background-color: lightcoral;
+	border: 1px solid black;
+	padding-top: 30px;
+	padding-left: 50px;
+	margin-left: 0px;
+	margin-bottom: 50px;
+	border: 5px solid lightsalmon;
+}
+img{
+ border-width: 5px;
+ border-style: solid;
+ border-color: white;
+ }
